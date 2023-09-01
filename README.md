@@ -13,6 +13,10 @@ This code reproduces the experiments carried out among the datasets mnist and mn
 
 ![Image](datasets.png)
 
+Although other network architectures can be considered in this repository, here is expressly provided the network architectures used in [1] for mnist vs. mnist modified experiments. The following figure, also taken from [1], specifies the architectural details:
+
+![Image](architecture.png)
+
 # References
 [1] Ganin and V. Lempitsky, “Unsupervised   domain   adaptation  by backpropagation,”arXiv preprint arXiv:1409.7495, 2014.
 
