@@ -22,7 +22,12 @@ Additionally, during the experiments, the same set of hyper-parameters were used
 # Results
 The results were computed regarding Accuracy and F1-Score; the following table shows them.
 
-
+|               Source |   Mnist  |          |
+|---------------------:|:--------:|----------|
+|               Target |  Mnist-M |          |
+|              Metrics | Accuracy | F1-Score |
+| No Domain Adaptation |          |          |
+|         DANN         |          |          |
 
 # References
 [1] Ganin and V. Lempitsky, “Unsupervised   domain   adaptation  by backpropagation,”arXiv preprint arXiv:1409.7495, 2014.
