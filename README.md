@@ -26,8 +26,8 @@ The results were computed regarding Accuracy and F1-Score; the following table s
 |---------------------:|:--------:|----------|
 |               Target |  Mnist-M |          |
 |              Metrics | Accuracy | F1-Score |
-| No Domain Adaptation |          |          |
-|         DANN         |          |          |
+| No Domain Adaptation |    45    |   49.8   |
+|         DANN         |   70.4   |   70.8   |
 
 # References
 [1] Ganin and V. Lempitsky, “Unsupervised   domain   adaptation  by backpropagation,”arXiv preprint arXiv:1409.7495, 2014.
