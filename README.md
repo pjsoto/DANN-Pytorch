@@ -11,6 +11,7 @@ Aiming at simplifying Python environment issues, we provide the [docker containe
 # Experiments
 This code reproduces the experiments carried out among the datasets mnist and mnist modified. The difference between such datasets is represented in the following figure, taken from [1].
 
+![Image](dataset.png)
 
 # References
 [1] Ganin and V. Lempitsky, “Unsupervised   domain   adaptation  by backpropagation,”arXiv preprint arXiv:1409.7495, 2014.
